@@ -2,10 +2,10 @@
 layout: about
 title: About
 permalink: /
-subtitle: 
+description: 
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
