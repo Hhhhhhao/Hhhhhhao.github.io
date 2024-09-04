@@ -18,7 +18,7 @@ Email: haoc3@andrew.cmu.edu
 
 **About Me**
 
-I’m a 4th-year PhD candidate at Carnegie Mellon University (CMU), where I am advised by Prof. [Bhiksha Raj](https://cmu-mlsp.github.io/team/bhiksha_raj). I earned my Master’s degree in Electrical and Computer Engineering from CMU and my Bachelor’s degree from the University of Edinburgh, where I had the privilege of being supervised by Prof. [Sotirios Tsaftaris](https://vios.science/team/tsaftaris) and Tianjin University. During my PhD, I’ve also had the opportunity to collaborate with Prof. [Jindong Wang](https://jd92.wang/).
+I’m a 4th-year PhD candidate at Carnegie Mellon University (CMU), where I am advised by Prof. [Bhiksha Raj](https://cmu-mlsp.github.io/team/bhiksha_raj). I earned my Master’s degree in Electrical and Computer Engineering from CMU and my Bachelor’s degree from the University of Edinburgh, where I had the privilege of being supervised by Prof. [Sotirios Tsaftaris](https://vios.science/team/tsaftaris) and Tianjin University. I’ve also been fortunate to have the opportunity to collaborate with Prof. [Jindong Wang](https://jd92.wang/) along the way.
 
 **Research Interests**
 
