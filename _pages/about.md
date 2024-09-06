@@ -15,7 +15,7 @@ social: true # includes social icons at the bottom of the page
 ---
 Email: haoc3 [at] andrew.cmu.edu
 
-[Google scholar](https://scholar.google.com/citations?user=tktqkhwAAAAJ&hl=en&authuser=1) | [Github](https://github.com/Hhhhhhao) | [Twitter/X](https://x.com/Hhhhao97) | [Linkedin](https://www.linkedin.com/in/haochen97/) | [Zhihu](https://www.zhihu.com/people/la-la-la-la-la-la-la-44-92)
+[[Google scholar](https://scholar.google.com/citations?user=tktqkhwAAAAJ&hl=en&authuser=1)] | [[Github](https://github.com/Hhhhhhao)] | [[Twitter/X](https://x.com/Hhhhao97)] | [[Linkedin](https://www.linkedin.com/in/haochen97/)] | [[Zhihu](https://www.zhihu.com/people/la-la-la-la-la-la-la-44-92)]
 
 **About Me**
 
