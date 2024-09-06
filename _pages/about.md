@@ -17,11 +17,11 @@ Email: haoc3 [at] andrew.cmu.edu
 
 [[Google scholar](https://scholar.google.com/citations?user=tktqkhwAAAAJ&hl=en&authuser=1)] | [[Github](https://github.com/Hhhhhhao)] | [[Twitter/X](https://x.com/Hhhhao97)] | [[Linkedin](https://www.linkedin.com/in/haochen97/)] | [[Zhihu](https://www.zhihu.com/people/la-la-la-la-la-la-la-44-92)]
 
-**About Me**
+#### **About Me**
 
 I’m a 4th-year PhD candidate at Carnegie Mellon University (CMU), where I am advised by Prof. [Bhiksha Raj](https://cmu-mlsp.github.io/team/bhiksha_raj). I earned my Master’s degree in Electrical and Computer Engineering from CMU and my Bachelor’s degree from the University of Edinburgh, where I had the privilege of being supervised by Prof. [Sotirios Tsaftaris](https://vios.science/team/tsaftaris) and Tianjin University. I’ve also been fortunate to have the opportunity to collaborate with Prof. [Jindong Wang](https://jd92.wang/) along the way.
 
-**Research Interests**
+#### **Research Interests**
 
 My research focuses on enhancing generative AI through data-centric machine learning:
 
