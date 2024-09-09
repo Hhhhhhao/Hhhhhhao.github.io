@@ -6,6 +6,13 @@ description:
 nav: true
 nav_order: 3
 ---
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+#### Teaching
 
-Organize your courses by years, topics, or universities, however you like!
+* TA of CMU 11785 Introduction to Deep Learning, Fall 2024.
+* TA of CMU 18794 Pattern Recognition and Computer Vision. Fall 2023.
+* TA of CMU 11785 Introduction of Deep Learning. Fall 2021.
+
+#### Academic Service
+
+* Conference Reviewer: ICLR, NeurIPS, ICML, CVPR, ECCV, AAAI, EMNLP, KDD, etc.
+* Journal Reviewer: TNNLS, TIST
