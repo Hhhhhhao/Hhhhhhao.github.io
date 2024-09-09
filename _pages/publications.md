@@ -20,11 +20,14 @@ nav_order: 2
 
 #### Papers
 
+<!-- _pages/publications.md -->
+
+<!-- Bibsearch Feature -->
+
+{% include bib_search.liquid %}
+
 <div class="publications">
 
-{% for y in page.years %}
-  <div>{{y}}</div>
-  {% bibliography -f pubs -q @*[year={{y}}]* %}
-{% endfor %}
+{% bibliography %}
 
 </div>
