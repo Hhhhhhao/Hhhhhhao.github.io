@@ -15,7 +15,7 @@ social: true # includes social icons at the bottom of the page
 ---
 Email: haoc3 [at] andrew.cmu.edu
 
-[[Google scholar](https://scholar.google.com/citations?user=tktqkhwAAAAJ&hl=en&authuser=1)] | [[Github](https://github.com/Hhhhhhao)] | [[Twitter/X](https://x.com/Hhhhao97)] | [[Linkedin](https://www.linkedin.com/in/haochen97/)] | [[Zhihu](https://www.zhihu.com/people/la-la-la-la-la-la-la-44-92)]
+[[Google scholar](https://scholar.google.com/citations?user=tktqkhwAAAAJ&hl=en&authuser=1)] | [[Github](https://github.com/Hhhhhhao)] | [[Twitter/X](https://x.com/Hhhhao97)] | [[Linkedin](https://www.linkedin.com/in/haochen97/)] | 
 
 #### **About Me**
 
@@ -23,11 +23,11 @@ I’m a 4th-year PhD candidate at Carnegie Mellon University (CMU), where I am a
 
 #### **Research Interests**
 
-My research focuses on enhancing generative AI through data-centric machine learning:
+My research focuses on building more reliable and adaptable foundation models in realistic scenarios using data-centric methods:
 
-* Exploring the relationship between pre-training data (e.g., corruption, bias, diversity) and the behaviors/physics of foundation models.
-* Developing fine-tuning strategies to address catastrophic inheritance from pre-training, ensuring more reliable foundation models for downstream applications.
-* Investigating learning methods that handle various types of imperfect data and labels within the context of foundation models.
-* Advancing multi-modality foundation models by understanding their individual components from a data-centric perspective.
+* **Exploring Pre-Training Data Imperfections**: Investigate the effects of different types of data imperfections (e.g., corruption, bias, diversity) during pre-training and how they influence the physics of foundation models.
+* **Understanding and Mitigating Catastrophic Inheritance**: Examine how imperfections in pre-training data impact downstream tasks, and develop fine-tuning methods to mitigate the detrimental effects, thereby improving reliability and generalization.
+* **Leveraging Imperfect Data and Labels for Transfer Learning**: Develop robust learning methods to handle various types of imperfect data and labels for effective downstream task adaptation.
+* **Understanding Multi-Modality Generalization from Individual Components**: Advancing multi-modality foundation models by understanding their individual components from training data.
 
 I'm open to collaboration on relevant topics. I’m happy to mentor students in research and particularly encourage those from underrepresented groups to reach out.
