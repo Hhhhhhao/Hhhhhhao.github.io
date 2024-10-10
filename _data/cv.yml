@@ -2,20 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Hao Chen
     - name: Languages
-      value: English, German
+      value: English, Chinese
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D. Candidate
+      institution: Carnegie Mellon University
+      year: 2021 - Now
       description:
-        - Description 1.
+        - Advisor: Prof. Bhiksha Raj
         - Description 2.
         - title: Description 3.
           contents:
